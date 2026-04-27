@@ -1,0 +1,51 @@
+startup_id,name,domain,funding_stage,founder_exp,team_size,description,success
+1,Airbnb,marketplace,public,9,6132,Global accommodation marketplace,1
+2,DoorDash,consumer,public,8,5000,Restaurant delivery platform,1
+3,Coinbase,fintech,public,9,4000,Crypto trading platform,1
+4,Groww,fintech,series_c,7,1000,Investment platform for retail investors,1
+5,Oklo,deeptech,series_b,8,200,Advanced nuclear energy company,1
+6,Instacart,consumer,public,8,3000,Grocery delivery marketplace,1
+7,Meesho,ecommerce,series_c,7,2000,Social commerce platform in India,1
+8,EquipmentShare,saas,series_c,7,1000,Cloud solutions for construction,1
+9,Dropbox,saas,public,9,3000,Cloud file storage platform,1
+10,Rigetti Computing,deeptech,series_c,8,500,Quantum computing company,1
+11,BillionToOne,health,series_c,8,300,Genetic diagnostics platform,1
+12,GitLab,saas,public,9,2000,DevOps platform,1
+13,Matterport,consumer,public,7,500,3D spatial data platform,1
+14,Amplitude,saas,public,8,700,Product analytics platform,1
+15,PagerDuty,saas,public,8,800,Incident response platform,1
+16,Ginkgo Bioworks,health,public,9,1000,Synthetic biology platform,1
+17,Weave,saas,series_c,7,500,Customer communication platform,1
+18,Pardes Biosciences,health,series_b,7,150,Drug development company,0
+19,Embark Trucks,deeptech,series_c,8,300,Autonomous trucking company,0
+20,Momentus,deeptech,series_b,7,200,Space infrastructure company,0
+21,Lucira Health,health,public,7,300,Medical testing kits,0
+22,Segment,saas,acquired,9,500,Customer data platform,1
+23,Algolia,saas,series_c,8,800,Search API platform,1
+24,Truebill,fintech,acquired,7,400,Personal finance app,1
+25,Twitch,consumer,acquired,9,1000,Live streaming platform,1
+26,PlanGrid,saas,acquired,8,300,Construction productivity software,1
+27,Bellabeat,consumer,series_b,6,200,Wellness tech products,0
+28,Cruise,deeptech,acquired,9,1000,Self-driving car company,1
+29,Benchling,saas,series_d,8,600,Biotech R&D platform,1
+30,Casetext,saas,acquired,7,200,Legal AI platform,1
+31,Bird,saas,series_c,7,800,Communication platform,1
+32,Brex,fintech,series_d,8,1000,Corporate finance platform,1
+33,The Athletic,consumer,acquired,7,400,Sports media subscription,1
+34,Codecademy,edtech,acquired,8,500,Online coding education platform,1
+35,Checkr,saas,series_c,8,1000,Background check platform,1
+36,Lever,saas,acquired,7,300,Recruitment software,1
+37,Clipboard,consumer,seed,4,5,Workforce connection platform,0
+38,Heap,saas,series_c,7,400,Product analytics platform,1
+39,Sendwave,fintech,acquired,8,200,Remittance platform,1
+40,Deel,saas,series_d,9,2000,Global payroll platform,1
+41,Clever,edtech,series_c,7,300,Education platform integration,1
+42,Caper,saas,series_b,6,150,AI retail checkout system,0
+43,Reddit,consumer,public,9,2000,Online community platform,1
+44,Fivestars,saas,acquired,7,300,Loyalty and payments platform,1
+45,Machine Zone,consumer,series_c,7,500,Mobile gaming company,1
+46,Faire,marketplace,series_d,8,1000,Wholesale marketplace platform,1
+47,Fivetran,saas,series_d,8,800,Data pipeline automation,1
+48,Optimizely,saas,acquired,8,700,Experimentation platform,1
+49,Flexport,saas,series_d,8,1500,Logistics platform,1
+50,WePay,fintech,acquired,8,400,Payments platform,1
