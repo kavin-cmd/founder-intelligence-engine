@@ -1,5 +1,4 @@
 # founder-intelligence-engine
-# 🧠 Founder Intelligence Engine
 
 > AI system that evaluates startups using **ML + LLM intelligence**
 > Built to simulate how top-tier investors analyze founders, markets, and execution risk.
